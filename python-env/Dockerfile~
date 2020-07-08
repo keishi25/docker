@@ -1,0 +1,7 @@
+FROM python:3
+
+WORKDIR /home/keishi_hirakawa_nf/work/python_docker
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
