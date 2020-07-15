@@ -1,6 +1,8 @@
-QlƒTƒCƒg@https://hub.docker.com/_/python
+å‚è€ƒã‚µã‚¤ãƒˆã€€https://hub.docker.com/_/python
 
-ƒRƒ}ƒ“ƒh
-‚PD$ docker build -t ƒCƒ[ƒW–¼ .
-‚QD$ docker run -it --rm --name ƒRƒ“ƒeƒi–¼ ƒCƒ[ƒW–¼
+ã‚³ãƒãƒ³ãƒ‰
+Dockerfileã‹ã‚‰ã‚¤ãƒ¡ãƒ¼ã‚¸ã®ä½œæˆ
+ï¼‘ï¼$ docker build -t ã‚¤ãƒ¡ãƒ¼ã‚¸å .
+ä½œæˆã—ãŸã‚¤ãƒ¡ãƒ¼ã‚¸ã‹ã‚‰ã‚³ãƒ³ãƒ†ãƒŠèµ·å‹•
+ï¼’ï¼$ docker run -it --rm --name ã‚³ãƒ³ãƒ†ãƒŠå ã‚¤ãƒ¡ãƒ¼ã‚¸å
 
