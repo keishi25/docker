@@ -13,3 +13,5 @@ $docker rm コンテナID
 コンテナの停止
 $docker stop コンテナID
 
+Dockerfileのコマンド解説
+https://tech-lab.sios.jp/archives/19191
