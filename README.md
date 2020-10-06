@@ -29,5 +29,5 @@ Dockerfileのコマンド解説
 https://tech-lab.sios.jp/archives/19191
 
 Django + uwsgi + nginx
-https://hub.docker.com/r/dockerfiles/django-uwsgi-nginx/dockerfile
+https://hub.docker.com/r/dockerfiles/django-uwsgi-nginx/dockerfile　</br>
 デプロイ方法は、上記のDockerfileに、デプロイファイルをCOPYコマンドに追加する
