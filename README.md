@@ -20,5 +20,10 @@ $docker rm コンテナID
 $docker stop コンテナID
 ```
 
+コンテナ内にログイン
+```
+$docker exec -it コンテナ名 /bin/bash
+```
+
 Dockerfileのコマンド解説
 https://tech-lab.sios.jp/archives/19191
