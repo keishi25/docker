@@ -4,7 +4,10 @@ docker 基本コマンド
 イメージの確認
 $docker images
 
-コンテナのstatus確認
+コンテナ一覧
+
+
+コンテナのstatus確認＆一覧表示
 $ docker ps -a
 
 コンテナの削除
